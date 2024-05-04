@@ -1,0 +1,22 @@
+{
+  "name": "api-key-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clashofclans.js": "^3.3.4",
+    "tsx": "^4.7.2",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "@types/yargs": "^17.0.32",
+    "typescript": "^5.4.4"
+  }
+}
